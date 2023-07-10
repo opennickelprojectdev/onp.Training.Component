@@ -6,7 +6,7 @@
 | pattern-id              | onp.base.template                             |
 | pattern-name            | base template                                 |
 | pattern-version         | 1.0.0                                         |
-| pattern-description     | Some description here                         |
+| pattern-description     | Training components testing                         |
 | organisation-id         | nc                                            |
 | pattern-categories      | bootstrap                                     |
 
